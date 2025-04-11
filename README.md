@@ -17,6 +17,19 @@ git tag -a v1.0 -m "Release version 1.0"
 lightweight tags
 Lightweight tags are simply pointers to a specific commit. They do not contain any additional metadata.
 <br>
+when to use rebase:<br>
+Keeping Feature Branches Updated:
+<br>
+git checkout feature-branch
+<br>
+git rebase main
+
+
+
+
+
+
+<br>
 git tag v1.0
 <br>
 when to use rebase:
