@@ -36,7 +36,7 @@ git push --delete remote-name tagname
 
 
 
-![Uploading IMG20231005175128edit.jpg…]()
+
 
 
 
