@@ -32,7 +32,7 @@ Delete a remote Tag:
 git push --delete remote-name tagname
 
 
-
+![computer](https://img.choice.com.au/-/media/dc5a904b4e20498da3c70c268b3b197b.ashx?w=760)
 
 
 
