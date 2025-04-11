@@ -1,4 +1,4 @@
-![IMG20231005175128edit](https://github.com/user-attachments/assets/eff7eff7-41a3-4afe-bacc-0d5f30085bd8)ensure that the repository is not currently on the branch to be deleted 
+ensure that the repository is not currently on the branch to be deleted 
 1-delete branch locally 
 ``sh
 git branch -d branch-to-delete 
@@ -30,7 +30,7 @@ git push --delete remote-name tagname
 
 
 
-![Alt text]([url_to_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choice.com.au%2Felectronics-and-technology%2Fcomputers%2Fdesktop-and-laptop-computers%2Fbuying-guides%2Fdesktop-computers&psig=AOvVaw3VD7D8Jp-wLSgj2v2WVxMP&ust=1744462353206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjV5OqC0IwDFQAAAAAdAAAAABAE))
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choice.com.au%2Felectronics-and-technology%2Fcomputers%2Fdesktop-and-laptop-computers%2Fbuying-guides%2Fdesktop-computers&psig=AOvVaw3VD7D8Jp-wLSgj2v2WVxMP&ust=1744462353206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjV5OqC0IwDFQAAAAAdAAAAABA)
 
 
 
